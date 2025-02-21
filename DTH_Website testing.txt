@@ -37,3 +37,89 @@ Prerequisites:
 4.Tools: Postman (API Testing), JIRA (Bug Tracking), Selenium (Automation if needed).
 
 5.Test Data: User credentials, dummy payment details, and different DTH plans.
+
+Test Scenarios
+
+1. User Registration & Login
+
+Verify new user registration with valid and invalid data.
+
+Test login with valid credentials, incorrect password, and unregistered email.
+
+Validate OTP verification for mobile/email.
+
+Check password reset functionality.
+
+2. Plan Selection & Subscription
+
+Verify that different DTH plans are displayed correctly.
+
+Test the selection and activation of a plan.
+
+Validate discounts, promo codes, and offers.
+
+Ensure subscription renewal is functioning properly.
+
+3. Payment Processing
+
+Test payment gateway integration (Credit Card, Debit Card, UPI, Net Banking, Wallets).
+
+Validate transaction success and failure scenarios.
+
+Verify refund and cancellation policies.
+
+Check for correct invoice generation.
+
+4. Channel Management
+
+Verify that users can add/remove channels from their subscription.
+
+Test regional package selection and customization.
+
+Ensure updated channel lists are displayed correctly.
+
+5. Customer Support & Chatbot
+
+Test chat support responses and AI chatbot interaction.
+
+Verify contact forms, email support, and toll-free numbers.
+
+Validate complaint registration and tracking system.
+
+6. API Testing
+
+Verify API calls for login, plan subscription, payment processing, and customer service.
+
+Test response times and error handling.
+
+Validate authentication and authorization mechanisms.
+
+7. Security Testing
+
+Check for SQL Injection and XSS vulnerabilities.
+
+Test session management and logout functionality.
+
+Validate password encryption and data protection measures.
+
+8. Performance & Load Testing
+
+Measure page load times under different network conditions.
+
+Test concurrent user handling and server response time.
+
+Conduct stress testing to evaluate system capacity.
+
+9. Mobile & Cross-Browser Testing
+
+Verify UI responsiveness across different screen sizes.
+
+Test functionality on different browsers and operating systems.
+
+Test Execution & Bug Reporting
+
+Execute test cases and log defects in JIRA.
+
+Retest fixed issues and perform regression testing.
+
+Generate test summary reports and share findings with stakeholders.
