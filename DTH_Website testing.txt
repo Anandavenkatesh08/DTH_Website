@@ -23,3 +23,17 @@ Scope of Testing
 7.Compatibility Testing
 
 8.Mobile Responsiveness Testing
+
+Test Environment Setup
+
+Prerequisites:
+
+1.Test Server: A staging environment with the latest build of the DTH website.
+
+2.Browsers: Chrome, Firefox, Edge, Safari (for cross-browser testing).
+
+3.Devices: Desktop, tablet, and mobile devices.
+
+4.Tools: Postman (API Testing), JIRA (Bug Tracking), Selenium (Automation if needed).
+
+5.Test Data: User credentials, dummy payment details, and different DTH plans.
