@@ -1,0 +1,25 @@
+Introduction
+
+This document outlines the end-to-end testing process for a DTH (Direct-to-Home) website, ensuring smooth functionality,
+usability, security, and performance. The testing covers user interactions, plan subscriptions, payment transactions, 
+and customer support functionalities.
+
+Author:Ananda Venkatesh.S
+
+Scope of Testing
+
+1.Functional Testing
+
+2.UI/UX Testing
+
+3.Performance Testing
+
+4.Security Testing
+
+5.Database Testing
+
+6.API Testing
+
+7.Compatibility Testing
+
+8.Mobile Responsiveness Testing
